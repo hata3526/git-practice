@@ -6,3 +6,6 @@ Woooooooooo
 new-feature branchで変更
 
 no-fast-forward
+
+Add Conflict
+
