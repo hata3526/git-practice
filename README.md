@@ -7,4 +7,5 @@ new-feature branchで変更
 
 no-fast-forward
 
-MainBranchで変更
+Add Conflict
+
