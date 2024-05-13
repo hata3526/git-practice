@@ -9,6 +9,5 @@ no-fast-forward
 
 Add Conflict
 
-Mofmof branch .com
 
-Github上で更新2回目
+Conflict local
