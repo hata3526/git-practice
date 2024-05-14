@@ -1,10 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-
-Woooooooooo
-
-new-feature branchで変更
-
-no-fast-forward
-
-MainBranchで変更
+自分のリポジトリで更新
